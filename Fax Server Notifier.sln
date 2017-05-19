@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fax Server Notifier", "Fax Server Notifier.csproj", "{817EC024-6544-4F8B-9A66-2C01334C22AD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UnattendedInstaller", "UnattendedInstaller\UnattendedInstaller.vdproj", "{8D49A77B-98A3-496E-AB2C-8E598802FDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817EC024-6544-4F8B-9A66-2C01334C22AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817EC024-6544-4F8B-9A66-2C01334C22AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817EC024-6544-4F8B-9A66-2C01334C22AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817EC024-6544-4F8B-9A66-2C01334C22AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D49A77B-98A3-496E-AB2C-8E598802FDBE}.Debug|Any CPU.ActiveCfg = Debug
+		{8D49A77B-98A3-496E-AB2C-8E598802FDBE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
